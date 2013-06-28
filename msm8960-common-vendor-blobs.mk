@@ -143,3 +143,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/motorola/msm8960-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/motorola/msm8960-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so
+
+PRODUCT_COPY_FILES += \
+    vendor/motorola/msm8960-common/proprietary/app/libmmjpeg.so:system/app/CircleConfig.apk \
+    vendor/motorola/msm8960-common/proprietary/app/CircleWidget3D.apk:system/app/CircleWidget3D.apk \
+    vendor/motorola/msm8960-common/proprietary/app/DataMeterAtt.apk:system/app/DataMeterAtt.apk \
+    vendor/motorola/msm8960-common/proprietary/app/HomeConfig.apk:system/app/HomeConfig.apk \
+    vendor/motorola/msm8960-common/proprietary/app/Homescreen.apk:system/app/Homescreen.apk \
+    vendor/motorola/msm8960-common/proprietary/app/Weather.apk:system/app/Weather.apk
+
